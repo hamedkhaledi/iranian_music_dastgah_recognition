@@ -28,8 +28,13 @@ We used the Liborsa library for feature extraction in this project, and we pulle
 ## Results
 
 * Classification
+
   ![image](images/1.png)
+  
 * LSTM
+
   ![image](images/2.png)
+  
 * Clustering
+
   ![image](images/3.png)
